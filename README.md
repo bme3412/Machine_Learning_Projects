@@ -17,19 +17,19 @@ Connecticut vs Purdue | Winner: Connecticut (Conviction: 51.15%)
 ### Updated Predicitions using xgboost, made 4/2/2024:
 Round 4 Matchups:
            Team_1          Team_2
-0     Connecticut             BYU
-1  North Carolina         Clemson
-2         Houston      Texas Tech
-3          Purdue  South Carolina
+     Connecticut             BYU
+  North Carolina         Clemson
+         Houston      Texas Tech
+          Purdue  South Carolina
 
 Round 5 Matchups:
         Team_1          Team_2
-0  Connecticut  North Carolina
-1      Houston          Purdue
+  Connecticut  North Carolina
+      Houston          Purdue
 
 Championship Game:
         Team_1   Team_2
-0  Connecticut  Houston
+  Connecticut  Houston
 
 Predicted Champion:
 Connecticut
